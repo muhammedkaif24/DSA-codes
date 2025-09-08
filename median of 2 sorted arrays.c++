@@ -1,10 +1,3 @@
-//find the median of 2 sorted arrays |c++|
-//arr 1={2,4,10,14,15};
-//arr 2={1,3,5,9,11};
-
-//Aspect	Complexity
-//Time Complexity	O(n1 + n2)
-//Space Complexity	O(1)
 
 #include <iostream>
 using namespace std;
